@@ -1,0 +1,33 @@
+There are many factors that affecct the Housing Price Index (HPI) but many in the given dataset have negligible, if any, effect on that.
+
+We take a look at all the features one by one:
+
+1) Federal Funds Rate: The federal funds rate is a factor that affects the HPI, but the changes in federal funds rate are rare and there are negligible changes. 
+
+2) Total Expenditures: Total Expenditures play an important role in determining the HPI as it is directly related to the cost of the housing prices.
+
+3) Labor Force Price: Labor force price also plays a vital role as the labor cost in that area will directly affect the housing price index over there.
+
+4) Producer Price Index: The Producer Price Index (PPI) is a weighted index of prices measured at the wholesale, or producer level. So it does play an important role in determining GDP which direcctly affects the HPI.
+
+5) Gross Domestic Product: The GDP plays a vital role in determining the HPI in the area, as more is the GDP, higher would be the HPI.
+
+6) sp500: The S&P 500 is an American stock market index based on the market capitalizations of 500 large companies having common stock. It also plays an important role, which might not be as vital as the rest of the fields.
+
+7) Consumer Price Index: A consumer price index (CPI) measures changes in the price level of market basket of consumer goods and services purchased by households.
+
+8) Long Interest Rate: Long Interest Rate plays an enormous role in deciding the HPI.
+
+9) Total Unemployment: Total Unemployment does not play that big a role in determining HPI.
+
+10) More than 15 weeks: Does not play a vital role in determining HPI.
+
+11) Not in Labor Searched for Work: Does not play that big a role in HPI.
+
+12) Multi-jobs: Shows how many individuals pursue multiple jobs in the area. Plays a small role in HPI determination.
+
+13) Leavers: Job leavers are those individuals who leave their jobs for some other job. Does not play a huge role in determining HPI.
+
+14) Losers: Job Losers are those people who permanently/temporarily have lost their job and currently have no other job. Has a small effect on HPI.
+
+
