@@ -65,7 +65,8 @@ work within six months.
 
 ## Implementation Flow 
 <br />
-![Flow](images/flow.png?raw=true) <br />
+![flow diagram](images/flow.png?raw=true) <br />
+
 ## Accuracy Score Check
 We used two metrics to check the accuracy score of the trained model. <br />
 a) Mean Absolute Error:
@@ -85,8 +86,8 @@ As the performance metrics were satisfactory, we went to the next step.
 Recursive Feature Elimination (RFE) as its title suggests recursively removes features, builds
 a model using the remaining attributes and calculates model accuracy. RFE is able to work
 out the combination of attributes that contribute to the prediction on the target variable (or
-class).
-![rfe](images/rfe.png?raw=true)
+class).<br />
+![rfe diagram](images/rfe.png?raw=true) <br/>
 After following the process, the best results were obtained by keeping 7 features out of the 14
 initially. These were:
 1. Total Expenditure
