@@ -64,7 +64,7 @@ work within six months.
 <br />
 
 ## Implementation Flow 
-<br />
+
 ![flow diagram](images/flow.png?raw=true) <br />
 
 ## Accuracy Score Check
